@@ -1,10 +1,11 @@
 let bookArr = JSON.parse(localStorage.getItem('book')) || [];
+
 class Book {
   constructor(title, author) {
     this.title = title;
     this.author = author;
   }
-
+  
   addBook = () => {
     document.querySelector('.form').addEventListener('submit', () => {
       const title = document.getElementById('title').value;
@@ -50,3 +51,5 @@ class Book {
     removeBook();
   };
 }
+
+export default Book;
