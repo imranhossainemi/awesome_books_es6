@@ -5,7 +5,7 @@ class Book {
     this.title = title;
     this.author = author;
   }
-  
+
   addBook = () => {
     document.querySelector('.form').addEventListener('submit', () => {
       const title = document.getElementById('title').value;
