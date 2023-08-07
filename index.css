@@ -12,6 +12,8 @@
   border: 5px solid;
   align-items: center;
   border-radius: 6px;
+  min-height: 70px;
+  flex-wrap: wrap;
 }
 
 .nav-menu {
