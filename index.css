@@ -24,6 +24,7 @@
   list-style-type: none;
   align-items: center;
   flex-wrap: wrap;
+  flex-direction: row;
 }
 
 .nav-item:hover {
