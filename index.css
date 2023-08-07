@@ -23,6 +23,7 @@
   gap: 27px;
   list-style-type: none;
   align-items: center;
+  flex-wrap: wrap;
 }
 
 .nav-item:hover {
