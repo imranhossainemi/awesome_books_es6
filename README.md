@@ -85,7 +85,7 @@ For this projec design I am using form to create localstorage data and class obj
 
 > You can live demo form here.
 
-- [Live Demo Link]  No demo link yet
+- [Live Demo Link](https://imranhossainemi.github.io/awesome_books_es6/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
